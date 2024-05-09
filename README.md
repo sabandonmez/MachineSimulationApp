@@ -82,7 +82,5 @@ Bu ekran, CoralReef Tablet Makine Entegrasyonu sisteminin merkezi bileşenlerind
 <h4>Süre Raporu</h4>
 <p>Tüm üretim ve duruş süreçleri detaylı olarak raporlanır. Bu raporlar, operasyonel verimliliği değerlendirme ve süreç iyileştirmeleri için değerli bir kaynak olarak hizmet eder. Her bir üretim ve duruş olayı, süre ve tarih ile birlikte kaydedilir, bu da süreçlerin daha iyi anlaşılmasını ve yönetilmesini sağlar.</p>
 
-<video width="320" height="240" controls>
-  <source src="images/MachineSimulationAppVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
